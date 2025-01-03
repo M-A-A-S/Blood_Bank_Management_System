@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.vs/
+*.suo
+*.DS_Store
+
+# React.js
+node_modules/
+build/
