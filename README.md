@@ -18,4 +18,4 @@ A web-based blood donation system developed for hospitals to efficiently manage 
 - **Architecture:** N-Tier Architecture
 
 ## ✉️ Contact
-For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:your-email@example.com)
+For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:mohammedalfatih606@gmail)
